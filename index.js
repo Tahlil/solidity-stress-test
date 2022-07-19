@@ -3,6 +3,14 @@ let request = require("request");
 
 const apiKey = process.env.API_KEY;
 
+const players = [
+    "Rubye Baumbach","Yvonne Gaylord IV","Erling Emard","Mrs. Elwin Weber","Fern Labadie","Ardella Will","Ramon Boyle","Elyssa Hane","Opal Romaguera II","Rhett Klocko","Odie Monahan","April Ratke","Jayne Hessel","Garett DuBuque","Cyril Morar","Dedrick Bayer","Abdullah Franecki","Laverna Lemke","Hilda Wehner","Dane Crona","Miles Kshlerin","Julius Donnelly","Autumn Grady","Millie Gaylord","Jarred Nader","Anabelle Doyle","Stevie Stark","Bud West","Kellie Carter","Alfonzo Walker III","Abby Braun","Giovani Williamson","Assunta Hermann","Jace Crooks","Layne Gislason","Kiel Farrell","Arlo Blick","Cecil Abshire IV","Braxton Quigley","Elvie Simonis","Ana O'Conner","Jayde Hane","Jayne Goyette","Alvina Schimmel","Frank Dach","Carey Effertz","Jasen Morar","Wilhelm Kozey MD","Ebba Runte","Chloe Stiedemann"
+]
+
+function getNRandomPlayers(n) {
+    
+}
+
 var options = {
   method: 'GET',
   url: 'https://v3.football.api-sports.io/fixtures',
