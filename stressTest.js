@@ -4,6 +4,7 @@ const abi = contract.abi;
 const dotenv = require('dotenv');
 const path = require('path');
 const JFile=require('jfile');
+const fs = require('fs');
 
 
 
@@ -38,8 +39,8 @@ function convertToJson() {
       scores = scorerAndScoreInfo.slice(half).map(i=>Number(i));;
     }
     let newMatch = {
-      home: splited[0],
-      away: splited[1],
+      home: splited[0].trim(),
+      away: splited[1].trim(),
       homeGoals: parseInt(splited[2]),
       awayGoals: parseInt(splited[3]),
       scorers: scorers,
@@ -47,6 +48,13 @@ function convertToJson() {
     }
     finalJsonObj.push(newMatch);
   }
+  console.log("Final object size", finalJsonObj.length);
+  let data = JSON.stringify(finalJsonObj, null, 2);
+
+  fs.writeFile('data.json', data, (err) => {
+    if (err) throw err;
+    console.log('Data written to file');
+  });
 }
 
 async function main() {
@@ -58,5 +66,6 @@ async function main() {
     // console.log(matchDetails);
   
   }
-  main();
+  // main();
+  convertToJson();
 

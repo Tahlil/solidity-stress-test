@@ -1,6 +1,6 @@
 Alaves,Real Madrid,1,4,Ana O'Conner,Giovani Williamson,Dane Crona,Abby Braun,2,3,3,3
- Barcelona,Real Sociedad,4,2,Jayne Goyette,Abby Braun,Yvonne Gaylord IV,Giovani Williamson,Rhett Klocko,Ana O'Conner,2,4,2,0,4,0
- Celta Vigo,Atletico Madrid,1,2,Fern Labadie,Millie Gaylord,1,0
+Barcelona,Real Sociedad,4,2,Jayne Goyette,Abby Braun,Yvonne Gaylord IV,Giovani Williamson,Rhett Klocko,Ana O'Conner,2,4,2,0,4,0
+Celta Vigo,Atletico Madrid,1,2,Fern Labadie,Millie Gaylord,1,0
  Mallorca,Real Betis,1,1
  Cadiz,Levante,1,1,Kellie Carter,Alvina Schimmel,1,1
  Osasuna,Espanyol,0,0

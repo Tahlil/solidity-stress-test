@@ -1,0 +1,4482 @@
+[
+  {
+    "home": "Alaves",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Ana O'Conner",
+      "Giovani Williamson",
+      "Dane Crona",
+      "Abby Braun"
+    ],
+    "scores": [
+      2,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Real Sociedad",
+    "homeGoals": 4,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayne Goyette",
+      "Abby Braun",
+      "Yvonne Gaylord IV",
+      "Giovani Williamson",
+      "Rhett Klocko",
+      "Ana O'Conner"
+    ],
+    "scores": [
+      2,
+      4,
+      2,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Fern Labadie",
+      "Millie Gaylord"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Kellie Carter",
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Espanyol",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Rayo Vallecano",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks",
+      "Ana O'Conner"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Granada CF",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Mallorca",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Cadiz",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Stevie Stark"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Valencia",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Espanyol",
+    "away": "Villarreal",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Real Madrid",
+    "homeGoals": 3,
+    "awayGoals": 3,
+    "scorers": [
+      "Wilhelm Kozey MD",
+      "Elvie Simonis",
+      "Chloe Stiedemann",
+      "Abdullah Franecki",
+      "Garett DuBuque",
+      "Opal Romaguera II"
+    ],
+    "scores": [
+      2,
+      3,
+      4,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Villarreal",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Kellie Carter",
+      "Rubye Baumbach",
+      "Frank Dach"
+    ],
+    "scores": [
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Getafe",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Ardella Will"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Miles Kshlerin"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Kellie Carter"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Osasuna",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Valencia",
+    "away": "Alaves",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Granada CF",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Mallorca",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Giovani Williamson",
+      "Kellie Carter"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Elche",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayde Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "April Ratke"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Giovani Williamson"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Valencia",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Frank Dach"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Celta Vigo",
+    "homeGoals": 5,
+    "awayGoals": 2,
+    "scorers": [
+      "Ardella Will",
+      "Chloe Stiedemann",
+      "Dedrick Bayer",
+      "Wilhelm Kozey MD"
+    ],
+    "scores": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Giovani Williamson",
+      "Cyril Morar"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Alaves",
+    "homeGoals": 5,
+    "awayGoals": 2,
+    "scorers": [
+      "Frank Dach",
+      "Kiel Farrell",
+      "Erling Emard",
+      "Autumn Grady",
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      1,
+      0,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Osasuna",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Ardella Will"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Granada CF",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Fern Labadie",
+      "Giovani Williamson",
+      "Jayne Hessel"
+    ],
+    "scores": [
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Cadiz",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Abdullah Franecki"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Villarreal",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Valencia",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Getafe",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Ebba Runte",
+      "Giovani Williamson",
+      "Odie Monahan"
+    ],
+    "scores": [
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Assunta Hermann",
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Kellie Carter",
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Chloe Stiedemann",
+      "Ramon Boyle",
+      "Ardella Will"
+    ],
+    "scores": [
+      2,
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Real Sociedad",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Autumn Grady",
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Alaves",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [
+      "Dane Crona"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Mallorca",
+    "homeGoals": 6,
+    "awayGoals": 1,
+    "scorers": [
+      "Frank Dach",
+      "Julius Donnelly",
+      "Opal Romaguera II",
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      1,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Valencia",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Elche",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Levante",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Ana O'Conner"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Getafe",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Kiel Farrell",
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Granada CF",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Osasuna",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Abby Braun",
+      "Jayne Goyette",
+      "Elvie Simonis"
+    ],
+    "scores": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Villarreal",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Elyssa Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Laverna Lemke",
+      "Jayne Hessel"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Cadiz",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Arlo Blick",
+      "Autumn Grady",
+      "Stevie Stark",
+      "Jayde Hane"
+    ],
+    "scores": [
+      2,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Alaves",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Getafe",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Giovani Williamson"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Autumn Grady"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Real Betis",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Yvonne Gaylord IV",
+      "Erling Emard"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Braxton Quigley"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Valencia",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Arlo Blick",
+      "Abby Braun",
+      "Mrs. Elwin Weber"
+    ],
+    "scores": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Elvie Simonis",
+      "Mrs. Elwin Weber"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Cadiz",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Getafe",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Mallorca",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Villarreal",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Stevie Stark",
+      "Cyril Morar"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Real Sociedad",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayne Hessel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Rayo Vallecano",
+    "homeGoals": 3,
+    "awayGoals": 2,
+    "scorers": [
+      "Anabelle Doyle",
+      "Erling Emard",
+      "April Ratke",
+      "Braxton Quigley",
+      "Ramon Boyle"
+    ],
+    "scores": [
+      1,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Dane Crona",
+      "Rubye Baumbach"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Alaves",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Granada CF",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Levante",
+    "homeGoals": 5,
+    "awayGoals": 3,
+    "scorers": [
+      "Braxton Quigley"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Mallorca",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Kiel Farrell",
+      "Cecil Abshire IV",
+      "Autumn Grady"
+    ],
+    "scores": [
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Assunta Hermann"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Valencia",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Ramon Boyle",
+      "Rubye Baumbach"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Alfonzo Walker III",
+      "Jayne Goyette"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Osasuna",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Cadiz",
+    "homeGoals": 3,
+    "awayGoals": 3,
+    "scorers": [
+      "Mrs. Elwin Weber"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Real Betis",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Ardella Will",
+      "Cecil Abshire IV",
+      "Dane Crona"
+    ],
+    "scores": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Alaves",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Getafe",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Mallorca",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Granada CF",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Jarred Nader"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Osasuna",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Alfonzo Walker III",
+      "Dane Crona"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Villarreal",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "April Ratke",
+      "Abdullah Franecki"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Stevie Stark",
+      "Chloe Stiedemann",
+      "Jarred Nader"
+    ],
+    "scores": [
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Levante",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Jayne Hessel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Mrs. Elwin Weber"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Ramon Boyle",
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Barcelona",
+    "homeGoals": 3,
+    "awayGoals": 3,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Espanyol",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Cecil Abshire IV",
+      "Braxton Quigley"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayde Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Jace Crooks",
+      "Jarred Nader",
+      "Ebba Runte"
+    ],
+    "scores": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Atletico Madrid",
+    "homeGoals": 3,
+    "awayGoals": 3,
+    "scorers": [
+      "Fern Labadie",
+      "Jarred Nader",
+      "Kiel Farrell",
+      "Erling Emard",
+      "Ana O'Conner",
+      "Jace Crooks"
+    ],
+    "scores": [
+      2,
+      4,
+      3,
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Cyril Morar"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Rhett Klocko",
+      "Autumn Grady"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Cadiz",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Jayne Hessel",
+      "Erling Emard"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Alaves",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Cecil Abshire IV",
+      "April Ratke",
+      "Rhett Klocko",
+      "Autumn Grady"
+    ],
+    "scores": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Mallorca",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Mrs. Elwin Weber"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayde Hane",
+      "Autumn Grady"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Abdullah Franecki",
+      "Yvonne Gaylord IV",
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Levante",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Fern Labadie",
+      "Jayde Hane",
+      "Abdullah Franecki",
+      "Assunta Hermann"
+    ],
+    "scores": [
+      0,
+      0,
+      3,
+      2
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Getafe",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Carey Effertz"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Sevilla",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Abdullah Franecki",
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Mallorca",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Garett DuBuque"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Valencia",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Cyril Morar",
+      "Jasen Morar"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Alaves",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Osasuna",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Arlo Blick"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Cadiz",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Abdullah Franecki",
+      "Abby Braun"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Millie Gaylord",
+      "April Ratke"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Real Sociedad",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Rubye Baumbach",
+      "Abdullah Franecki"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Granada CF",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Espanyol",
+    "away": "Levante",
+    "homeGoals": 4,
+    "awayGoals": 3,
+    "scorers": [
+      "Jace Crooks",
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Giovani Williamson",
+      "Laverna Lemke"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Elyssa Hane",
+      "Ramon Boyle",
+      "Jayde Hane"
+    ],
+    "scores": [
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Real Betis",
+    "homeGoals": 3,
+    "awayGoals": 2,
+    "scorers": [
+      "Jasen Morar",
+      "Abby Braun",
+      "April Ratke",
+      "Opal Romaguera II",
+      "Assunta Hermann"
+    ],
+    "scores": [
+      1,
+      0,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Elche",
+    "homeGoals": 3,
+    "awayGoals": 2,
+    "scorers": [
+      "Layne Gislason",
+      "April Ratke",
+      "Jasen Morar",
+      "Frank Dach"
+    ],
+    "scores": [
+      1,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Espanyol",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Mallorca",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Ana O'Conner",
+      "Layne Gislason"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Valencia",
+    "homeGoals": 3,
+    "awayGoals": 4,
+    "scorers": [
+      "Alvina Schimmel",
+      "Assunta Hermann",
+      "Cecil Abshire IV",
+      "Fern Labadie",
+      "Chloe Stiedemann",
+      "Rhett Klocko"
+    ],
+    "scores": [
+      0,
+      1,
+      0,
+      3,
+      4,
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [
+      "Kiel Farrell",
+      "Odie Monahan",
+      "Stevie Stark"
+    ],
+    "scores": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Giovani Williamson"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Alaves",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Elyssa Hane",
+      "Fern Labadie"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Jasen Morar"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "April Ratke"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Valencia",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Levante",
+    "homeGoals": 5,
+    "awayGoals": 0,
+    "scorers": [
+      "Bud West",
+      "Odie Monahan",
+      "Kiel Farrell"
+    ],
+    "scores": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Granada CF",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Kellie Carter"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Assunta Hermann",
+      "Mrs. Elwin Weber",
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Mallorca",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Braxton Quigley"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Cadiz",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Dane Crona",
+      "Jarred Nader"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Valencia",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Jace Crooks",
+      "Jayne Goyette",
+      "Jasen Morar",
+      "Layne Gislason"
+    ],
+    "scores": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Jayde Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Wilhelm Kozey MD"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Kellie Carter",
+      "Elyssa Hane"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Elvie Simonis",
+      "Kiel Farrell"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Levante",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Elyssa Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Rayo Vallecano",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Alaves",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks",
+      "Miles Kshlerin",
+      "Bud West"
+    ],
+    "scores": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Osasuna",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Carey Effertz",
+      "Abdullah Franecki"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Laverna Lemke"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Granada CF",
+    "homeGoals": 4,
+    "awayGoals": 2,
+    "scorers": [
+      "Jace Crooks"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Giovani Williamson",
+      "Dane Crona"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Odie Monahan"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Valencia",
+    "homeGoals": 3,
+    "awayGoals": 2,
+    "scorers": [
+      "Abdullah Franecki",
+      "Carey Effertz",
+      "Chloe Stiedemann",
+      "April Ratke",
+      "Erling Emard"
+    ],
+    "scores": [
+      0,
+      4,
+      0,
+      3,
+      2
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Osasuna",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Fern Labadie",
+      "Jasen Morar"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Abby Braun",
+      "Elvie Simonis",
+      "Cyril Morar",
+      "Arlo Blick"
+    ],
+    "scores": [
+      0,
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Bud West"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Assunta Hermann"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Getafe",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Celta Vigo",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Cecil Abshire IV",
+      "Arlo Blick"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Athletic Club",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Mallorca",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Julius Donnelly"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Atletico Madrid",
+    "homeGoals": 4,
+    "awayGoals": 2,
+    "scorers": [
+      "Fern Labadie",
+      "Bud West",
+      "Cyril Morar",
+      "Assunta Hermann",
+      "Anabelle Doyle",
+      "Cecil Abshire IV"
+    ],
+    "scores": [
+      3,
+      4,
+      2,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Villarreal",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Abby Braun"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Cadiz",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Jayne Goyette",
+      "Assunta Hermann"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Levante",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Ardella Will",
+      "Fern Labadie",
+      "Giovani Williamson"
+    ],
+    "scores": [
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Granada CF",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Cyril Morar"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Alaves",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Chloe Stiedemann",
+      "Jasen Morar",
+      "Dane Crona",
+      "Abdullah Franecki"
+    ],
+    "scores": [
+      0,
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Valencia",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Getafe",
+    "homeGoals": 4,
+    "awayGoals": 3,
+    "scorers": [
+      "Cecil Abshire IV",
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Athletic Club",
+    "homeGoals": 3,
+    "awayGoals": 2,
+    "scorers": [
+      "Jayde Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Espanyol",
+    "away": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Erling Emard",
+      "Jasen Morar"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Real Betis",
+    "homeGoals": 2,
+    "awayGoals": 4,
+    "scorers": [
+      "Miles Kshlerin"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Alfonzo Walker III",
+      "Arlo Blick"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Osasuna",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Opal Romaguera II",
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Real Sociedad",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Rubye Baumbach"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Mallorca",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Assunta Hermann",
+      "Jasen Morar",
+      "Carey Effertz"
+    ],
+    "scores": [
+      2,
+      1,
+      2
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Ardella Will"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Layne Gislason"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Braxton Quigley",
+      "April Ratke"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Fern Labadie"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Atletico Madrid",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Dane Crona",
+      "Cyril Morar"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Alaves",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Jace Crooks"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Celta Vigo",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Laverna Lemke",
+      "Millie Gaylord"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Wilhelm Kozey MD",
+      "Jarred Nader",
+      "Giovani Williamson",
+      "Odie Monahan"
+    ],
+    "scores": [
+      0,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Getafe",
+    "away": "Alaves",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Giovani Williamson"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Elche",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Braxton Quigley",
+      "Jayde Hane"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Real Betis",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Jayde Hane"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Espanyol",
+    "homeGoals": 5,
+    "awayGoals": 1,
+    "scorers": [
+      "Abby Braun",
+      "Fern Labadie",
+      "Ebba Runte",
+      "Giovani Williamson"
+    ],
+    "scores": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Sevilla",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Levante",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Betis",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [
+      "Arlo Blick",
+      "Miles Kshlerin",
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Mallorca",
+    "homeGoals": 4,
+    "awayGoals": 3,
+    "scorers": [
+      "Layne Gislason",
+      "Opal Romaguera II",
+      "Abby Braun",
+      "Fern Labadie",
+      "Millie Gaylord",
+      "Cecil Abshire IV",
+      "Kiel Farrell"
+    ],
+    "scores": [
+      2,
+      2,
+      2,
+      4,
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Jayde Hane",
+      "Cecil Abshire IV"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Getafe",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Carey Effertz"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Real Sociedad",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Miles Kshlerin"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Granada CF",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Hilda Wehner",
+      "Jayne Goyette",
+      "April Ratke"
+    ],
+    "scores": [
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Dedrick Bayer",
+      "Rhett Klocko"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Cadiz",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Fern Labadie"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Osasuna",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Miles Kshlerin",
+      "Jayne Goyette"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Real Madrid",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [
+      "Ebba Runte",
+      "Elvie Simonis"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Elche",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Cyril Morar"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Alaves",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Cyril Morar",
+      "Laverna Lemke"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Alaves",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Braxton Quigley",
+      "Opal Romaguera II",
+      "Jace Crooks"
+    ],
+    "scores": [
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Ardella Will"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Mallorca",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Levante",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Elyssa Hane",
+      "Carey Effertz",
+      "Abby Braun",
+      "Bud West"
+    ],
+    "scores": [
+      3,
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "scorers": [
+      "Alvina Schimmel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Real Sociedad",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Atletico Madrid",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Ebba Runte"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Elche",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Alaves",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Ebba Runte"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Miles Kshlerin"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Osasuna",
+    "homeGoals": 4,
+    "awayGoals": 1,
+    "scorers": [
+      "Cecil Abshire IV",
+      "Kellie Carter"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Getafe",
+    "away": "Mallorca",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "April Ratke"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "scorers": [
+      "Rhett Klocko",
+      "Cyril Morar",
+      "Opal Romaguera II",
+      "Julius Donnelly"
+    ],
+    "scores": [
+      3,
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Levante",
+    "away": "Villarreal",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Espanyol",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Millie Gaylord"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Dedrick Bayer"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Real Betis",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Dedrick Bayer"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Barcelona",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Giovani Williamson",
+      "Ebba Runte"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Alaves",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Jayne Hessel"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Getafe",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Jarred Nader"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Granada CF",
+    "homeGoals": 4,
+    "awayGoals": 2,
+    "scorers": [
+      "Hilda Wehner"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Valencia",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Opal Romaguera II",
+      "Arlo Blick"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Giovani Williamson",
+      "Millie Gaylord",
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Rayo Vallecano",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Celta Vigo",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Rhett Klocko",
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Ebba Runte",
+      "Garett DuBuque",
+      "Alfonzo Walker III"
+    ],
+    "scores": [
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Getafe",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Granada CF",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 4,
+    "scorers": [
+      "Alfonzo Walker III",
+      "April Ratke",
+      "Ebba Runte"
+    ],
+    "scores": [
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Sevilla",
+    "away": "Real Madrid",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Yvonne Gaylord IV",
+      "Kiel Farrell",
+      "Jasen Morar"
+    ],
+    "scores": [
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Elche",
+    "away": "Mallorca",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Dane Crona"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Granada CF",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Betis",
+    "away": "Elche",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [
+      "Frank Dach"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Getafe",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Mallorca",
+    "away": "Alaves",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Bud West"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Cadiz",
+    "away": "Athletic Club",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Garett DuBuque",
+      "Jasen Morar",
+      "Mrs. Elwin Weber",
+      "Jayde Hane"
+    ],
+    "scores": [
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Rayo Vallecano",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Sevilla",
+    "homeGoals": 2,
+    "awayGoals": 3,
+    "scorers": [
+      "Jace Crooks",
+      "Abby Braun",
+      "Anabelle Doyle",
+      "Bud West"
+    ],
+    "scores": [
+      1,
+      2,
+      0,
+      3
+    ]
+  },
+  {
+    "home": "Osasuna",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "scorers": [
+      "Jayne Goyette",
+      "Dedrick Bayer",
+      "Julius Donnelly",
+      "Rhett Klocko"
+    ],
+    "scores": [
+      1,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Villarreal",
+    "away": "Valencia",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Elyssa Hane",
+      "Layne Gislason"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Villarreal",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Atletico Madrid",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Mallorca",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Carey Effertz",
+      "Odie Monahan",
+      "Jarred Nader"
+    ],
+    "scores": [
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Celta Vigo",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Espanyol",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Carey Effertz",
+      "Bud West"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Cadiz",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Wilhelm Kozey MD"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Levante",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Autumn Grady"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Giovani Williamson",
+      "Miles Kshlerin"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Valencia",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Elvie Simonis"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Barcelona",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Wilhelm Kozey MD",
+      "Ramon Boyle"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Alaves",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "scorers": [
+      "Jayne Goyette",
+      "Kiel Farrell",
+      "Jayne Hessel"
+    ],
+    "scores": [
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 6,
+    "scorers": [
+      "Jarred Nader",
+      "Ana O'Conner"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Rayo Vallecano",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Elche",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Layne Gislason"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Osasuna",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Real Sociedad",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Rubye Baumbach"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Braxton Quigley"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Espanyol",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Jarred Nader",
+      "Elyssa Hane"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Barcelona",
+    "away": "Celta Vigo",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Getafe",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Levante",
+    "homeGoals": 6,
+    "awayGoals": 0,
+    "scorers": [
+      "Ardella Will",
+      "Jayde Hane",
+      "Jayne Hessel",
+      "Miles Kshlerin",
+      "Dane Crona",
+      "Giovani Williamson"
+    ],
+    "scores": [
+      2,
+      2,
+      4,
+      2,
+      2,
+      5
+    ]
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Cadiz",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "scorers": [
+      "Hilda Wehner",
+      "Abdullah Franecki",
+      "Erling Emard"
+    ],
+    "scores": [
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Mallorca",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Valencia",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Villarreal",
+    "homeGoals": 1,
+    "awayGoals": 5,
+    "scorers": [
+      "Jasen Morar",
+      "Dedrick Bayer",
+      "Jayde Hane",
+      "Jayne Goyette",
+      "Odie Monahan"
+    ],
+    "scores": [
+      4,
+      3,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Atletico Madrid",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [
+      "Yvonne Gaylord IV"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Athletic Club",
+    "away": "Osasuna",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Giovani Williamson"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Sevilla",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Garett DuBuque",
+      "Rhett Klocko"
+    ],
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Real Betis",
+    "away": "Granada CF",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Rubye Baumbach",
+      "Kellie Carter"
+    ],
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Elche",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Frank Dach"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Mallorca",
+    "away": "Rayo Vallecano",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "scorers": [
+      "Frank Dach",
+      "Cyril Morar"
+    ],
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "home": "Getafe",
+    "away": "Barcelona",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Cadiz",
+    "away": "Real Madrid",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [
+      "Ardella Will"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Espanyol",
+    "away": "Valencia",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Levante",
+    "away": "Alaves",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "Erling Emard"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Villarreal",
+    "away": "Real Sociedad",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Fern Labadie",
+      "Frank Dach",
+      "Cyril Morar"
+    ],
+    "scores": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "home": "Alaves",
+    "away": "Cadiz",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Barcelona",
+    "away": "Villarreal",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Granada CF",
+    "away": "Espanyol",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Osasuna",
+    "away": "Mallorca",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Real Betis",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "scorers": [],
+    "scores": []
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Atletico Madrid",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "scorers": [
+      "Ebba Runte",
+      "Giovani Williamson",
+      "Ramon Boyle"
+    ],
+    "scores": [
+      2,
+      2,
+      1
+    ]
+  },
+  {
+    "home": "Sevilla",
+    "away": "Athletic Club",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "scorers": [
+      "Anabelle Doyle"
+    ],
+    "scores": [
+      0
+    ]
+  },
+  {
+    "home": "Valencia",
+    "away": "Celta Vigo",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "scorers": [
+      "Ana O'Conner",
+      "Odie Monahan"
+    ],
+    "scores": [
+      0,
+      0
+    ]
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Levante",
+    "homeGoals": 2,
+    "awayGoals": 4,
+    "scorers": [
+      "Fern Labadie",
+      "Laverna Lemke",
+      "Garett DuBuque",
+      "Millie Gaylord",
+      "Jarred Nader",
+      "Opal Romaguera II"
+    ],
+    "scores": [
+      2,
+      4,
+      1,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "home": "Elche",
+    "away": "Getafe",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "scorers": [
+      "April Ratke",
+      "Odie Monahan",
+      "Layne Gislason",
+      "Fern Labadie"
+    ],
+    "scores": [
+      0,
+      3,
+      1,
+      0
+    ]
+  }
+]
