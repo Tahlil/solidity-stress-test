@@ -34,4 +34,8 @@ contract Oracle {
         return _matches[league];
     }
 
+    function addMatch(string memory _league, string memory _homeTeam, string memory _awayTeam, uint8 _homeGoals, uint8 _awayGoals, string[] memory _scorers, uint8[] memory _scores) external onlyOwner {
+        _matches[_league].push(Match(_homeTeam, _awayTeam, _homeGoals, _awayGoals, _scorers, _scores));
+    }
+
 }
