@@ -23,8 +23,7 @@ const chainIds = {
 const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const RPC_API_KEY  = process.env.RPC_API_KEY || '';
 
-
-const getRPCURL = (network: String) => {
+const getRPCURL = (network) => {
   return "https://eth-"+network+".alchemyapi.io/v2/"+RPC_API_KEY;
 };
 
