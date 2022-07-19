@@ -29,5 +29,9 @@ contract Oracle {
     constructor() {
         _owner = msg.sender;
     }
+    
+    function getMatch(string memory league) public view returns(Match[] memory){
+        return _matches[league];
+    }
 
 }
