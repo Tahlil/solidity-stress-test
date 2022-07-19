@@ -24,7 +24,29 @@ const oracleContract = new ethers.Contract(CONTRACT_ADDRESS, abi, signer);
 
 function convertToJson() {
   const allMatches=new JFile("data.txt").lines;
-
+  const totalMatches = allMatches.length;
+  let finalJsonObj = [];
+  for (let index = 0; index < totalMatches; index++) {
+    const match = allMatches[index];
+    let splited = match.split(",");
+    let scorers = [];
+    let scores = [];
+    if(splited.length> 4){
+      let scorerAndScoreInfo = splited.slice(4);
+      const half = scorerAndScoreInfo.length/2;
+      scorers = scorerAndScoreInfo.slice(0, half);
+      scores = scorerAndScoreInfo.slice(half).map(i=>Number(i));;
+    }
+    let newMatch = {
+      home: splited[0],
+      away: splited[1],
+      homeGoals: parseInt(splited[2]),
+      awayGoals: parseInt(splited[3]),
+      scorers: scorers,
+      scores: scores
+    }
+    finalJsonObj.push(newMatch);
+  }
 }
 
 async function main() {
