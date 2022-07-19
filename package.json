@@ -1,5 +1,21 @@
 {
-  "name": "hardhat-project",
+  "name": "stress-test",
+  "scripts": {
+    "compile": "hardhat compile",
+    "hnode": "hardhat node",
+    "console": "hardhat console",
+    "test": "hardhat test",
+    "test:rinkeby": "hardhat test --network rinkeby",
+    "test:ropsten": "hardhat test --network ropsten",
+    "test:gas": "GAS_REPORT=TRUE hardhat test",
+    "deploy": "hardhat deploy",
+    "coverage": "hardhat coverage",
+    "deploy:rinkeby": "hardhat deploy --network rinkeby",
+    "deploy:ropsten": "hardhat deploy --network ropsten",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
   "devDependencies": {
     "@ethersproject/abi": "^5.6.4",
     "@ethersproject/providers": "^5.6.8",
