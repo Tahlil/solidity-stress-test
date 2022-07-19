@@ -58,6 +58,9 @@ function convertToJson() {
 }
 
 async function main() {
+  let matchdata = fs.readFileSync('data.json');
+  let allData = JSON.parse(matchdata);
+  console.log("Number of matches", allData.length);
     // console.log("Adding a new team:");
     // const tx = await oracleContract.addMatch("La Liga-2020", "ab", "cd'", 2, 1, ["test name", "other name"], [2,1]);
     // await tx.wait();
@@ -66,6 +69,6 @@ async function main() {
     // console.log(matchDetails);
   
   }
-  // main();
-  convertToJson();
+  main();
+  // convertToJson();
 
