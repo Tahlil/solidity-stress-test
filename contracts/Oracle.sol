@@ -14,6 +14,11 @@ contract Oracle {
         string[] goalScorers;
         uint8[] numberOfGoalsScored;
     }
+
+    modifier onlyOwner() {
+        require(msg.sender == _owner, "Not an owner");
+        _;
+    }
     
 /*
 * @author Tahlil
