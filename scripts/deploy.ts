@@ -1,8 +1,6 @@
 import { ethers } from "hardhat";
 
 async function main() {
-  
-
   const Oracle = await ethers.getContractFactory("Oracle");
   const oracle = await Oracle.deploy();
 

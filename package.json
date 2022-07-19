@@ -10,8 +10,8 @@
     "test:gas": "GAS_REPORT=TRUE hardhat test",
     "deploy": "hardhat deploy",
     "coverage": "hardhat coverage",
-    "deploy:rinkeby": "hardhat deploy --network rinkeby",
-    "deploy:ropsten": "hardhat deploy --network ropsten",
+    "deploy:rinkeby": "npx hardhat run scripts/deploy.js --network rinkeby",
+    "deploy:ropsten": "npx hardhat run scripts/deploy.js --network ropsten",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
