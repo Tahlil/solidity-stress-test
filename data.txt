@@ -1,0 +1,380 @@
+Alaves,Real Madrid,1,4,Ana O'Conner,Giovani Williamson,Dane Crona,Abby Braun,2,3,3,3
+ Barcelona,Real Sociedad,4,2,Jayne Goyette,Abby Braun,Yvonne Gaylord IV,Giovani Williamson,Rhett Klocko,Ana O'Conner,2,4,2,0,4,0
+ Celta Vigo,Atletico Madrid,1,2,Fern Labadie,Millie Gaylord,1,0
+ Mallorca,Real Betis,1,1
+ Cadiz,Levante,1,1,Kellie Carter,Alvina Schimmel,1,1
+ Osasuna,Espanyol,0,0
+ Sevilla,Rayo Vallecano,3,0,Jace Crooks,Ana O'Conner,1,1
+ Valencia,Getafe,1,0
+ Villarreal,Granada CF,0,0
+ Elche,Athletic Club,0,0
+ Alaves,Mallorca,0,1
+ Athletic Club,Barcelona,1,1
+ Atletico Madrid,Elche,1,0,Alfonzo Walker III,0
+ Real Betis,Cadiz,1,1,Elvie Simonis,0
+ Getafe,Sevilla,0,1,Stevie Stark,0
+ Granada CF,Valencia,1,1
+ Espanyol,Villarreal,0,0
+ Levante,Real Madrid,3,3,Wilhelm Kozey MD,Elvie Simonis,Chloe Stiedemann,Abdullah Franecki,Garett DuBuque,Opal Romaguera II,2,3,4,0,2,0
+ Osasuna,Celta Vigo,0,0
+ Real Sociedad,Rayo Vallecano,1,0,Elvie Simonis,0
+ Atletico Madrid,Villarreal,2,2,Kellie Carter,Rubye Baumbach,Frank Dach,0,2,1
+ Barcelona,Getafe,2,1,Ardella Will,0
+ Real Betis,Real Madrid,0,1,Miles Kshlerin,0
+ Celta Vigo,Athletic Club,0,1
+ Mallorca,Espanyol,1,0,Kellie Carter,0
+ Cadiz,Osasuna,2,3
+ Real Sociedad,Levante,1,0
+ Valencia,Alaves,3,0
+ Rayo Vallecano,Granada CF,4,0
+ Elche,Sevilla,1,1
+ Athletic Club,Mallorca,2,0,Giovani Williamson,Kellie Carter,0,0
+ Getafe,Elche,0,1
+ Cadiz,Real Sociedad,0,2,Jayde Hane,0
+ Granada CF,Real Betis,1,2,April Ratke,0
+ Espanyol,Atletico Madrid,1,2
+ Levante,Rayo Vallecano,1,1,Giovani Williamson,0
+ Osasuna,Valencia,1,4,Frank Dach,0
+ Real Madrid,Celta Vigo,5,2,Ardella Will,Chloe Stiedemann,Dedrick Bayer,Wilhelm Kozey MD,0,0,2,1
+ Sevilla,Barcelona,1,1,Giovani Williamson,Cyril Morar,0,0
+ Villarreal,Alaves,5,2,Frank Dach,Kiel Farrell,Erling Emard,Autumn Grady,Anabelle Doyle,1,0,0,4,4
+ Alaves,Osasuna,0,2,Ardella Will,0
+ Atletico Madrid,Athletic Club,0,0
+ Barcelona,Granada CF,1,1,Ramon Boyle,0
+ Real Betis,Espanyol,2,2,Fern Labadie,Giovani Williamson,Jayne Hessel,1,1,2
+ Celta Vigo,Cadiz,1,2,Abdullah Franecki,0
+ Mallorca,Villarreal,0,0
+ Real Sociedad,Sevilla,0,0
+ Valencia,Real Madrid,1,2
+ Rayo Vallecano,Getafe,3,0,Ebba Runte,Giovani Williamson,Odie Monahan,1,2,2
+ Elche,Levante,1,1,Assunta Hermann,Alvina Schimmel,1,1
+ Athletic Club,Rayo Vallecano,1,2,Kellie Carter,Yvonne Gaylord IV,0,1
+ Getafe,Atletico Madrid,1,2,Chloe Stiedemann,Ramon Boyle,Ardella Will,2,0,1
+ Cadiz,Barcelona,0,0
+ Granada CF,Real Sociedad,2,3,Autumn Grady,Yvonne Gaylord IV,1,0
+ Espanyol,Alaves,1,0,Elvie Simonis,0
+ Levante,Celta Vigo,0,2
+ Osasuna,Real Betis,1,3,Dane Crona,0
+ Real Madrid,Mallorca,6,1,Frank Dach,Julius Donnelly,Opal Romaguera II,Alvina Schimmel,1,2,2,0
+ Sevilla,Valencia,3,1,Elvie Simonis,0
+ Villarreal,Elche,4,1
+ Alaves,Atletico Madrid,1,0
+ Barcelona,Levante,3,0,Ana O'Conner,0
+ Real Betis,Getafe,2,0,Kiel Farrell,Elvie Simonis,0,1
+ Celta Vigo,Granada CF,1,0
+ Mallorca,Osasuna,2,3,Abby Braun,Jayne Goyette,Elvie Simonis,1,0,1
+ Real Madrid,Villarreal,0,0
+ Real Sociedad,Elche,1,0,Elyssa Hane,0
+ Sevilla,Espanyol,2,0,Laverna Lemke,Jayne Hessel,1,1
+ Valencia,Athletic Club,1,1
+ Rayo Vallecano,Cadiz,3,1,Arlo Blick,Autumn Grady,Stevie Stark,Jayde Hane,2,0,0,3
+ Athletic Club,Alaves,1,0,Julius Donnelly,0
+ Atletico Madrid,Barcelona,2,0
+ Mallorca,Levante,1,0
+ Getafe,Real Sociedad,1,1
+ Cadiz,Valencia,0,0
+ Granada CF,Sevilla,1,0,Giovani Williamson,0
+ Espanyol,Real Madrid,2,1
+ Osasuna,Rayo Vallecano,1,0,Autumn Grady,0
+ Villarreal,Real Betis,2,0,Yvonne Gaylord IV,Erling Emard,0,0
+ Elche,Celta Vigo,1,0
+ Alaves,Real Betis,0,1,Braxton Quigley,0
+ Barcelona,Valencia,3,1,Arlo Blick,Abby Braun,Mrs. Elwin Weber,0,0,0
+ Celta Vigo,Sevilla,0,1
+ Granada CF,Atletico Madrid,2,1,Elvie Simonis,Mrs. Elwin Weber,0,1
+ Espanyol,Cadiz,2,0,Jace Crooks,0
+ Levante,Getafe,0,0
+ Real Madrid,Athletic Club,1,0,Ramon Boyle,0
+ Real Sociedad,Mallorca,1,0,Jace Crooks,0
+ Rayo Vallecano,Elche,2,1
+ Villarreal,Osasuna,1,2
+ Athletic Club,Villarreal,2,1,Stevie Stark,Cyril Morar,1,1
+ Atletico Madrid,Real Sociedad,2,2
+ Barcelona,Real Madrid,1,2,Jayne Hessel,0
+ Real Betis,Rayo Vallecano,3,2,Anabelle Doyle,Erling Emard,April Ratke,Braxton Quigley,Ramon Boyle,1,4,2,0,0
+ Getafe,Celta Vigo,0,3,Dane Crona,Rubye Baumbach,1,1
+ Cadiz,Alaves,0,2
+ Osasuna,Granada CF,1,1
+ Sevilla,Levante,5,3,Braxton Quigley,0
+ Valencia,Mallorca,2,2,Julius Donnelly,0
+ Elche,Espanyol,2,2,Kiel Farrell,Cecil Abshire IV,Autumn Grady,0,2,2
+ Alaves,Elche,1,0,Assunta Hermann,0
+ Real Betis,Valencia,4,1,Ramon Boyle,Rubye Baumbach,0,1
+ Celta Vigo,Real Sociedad,0,2,Alfonzo Walker III,Jayne Goyette,1,1
+ Mallorca,Sevilla,1,1
+ Granada CF,Getafe,1,1,Alvina Schimmel,0
+ Espanyol,Athletic Club,1,1
+ Levante,Atletico Madrid,2,2,Alvina Schimmel,0
+ Real Madrid,Osasuna,0,0
+ Rayo Vallecano,Barcelona,1,0
+ Villarreal,Cadiz,3,3,Mrs. Elwin Weber,0
+ Atletico Madrid,Real Betis,3,0,Ardella Will,Cecil Abshire IV,Dane Crona,2,1,0
+ Barcelona,Alaves,1,1
+ Getafe,Espanyol,2,1
+ Cadiz,Mallorca,1,1
+ Levante,Granada CF,0,3,Jarred Nader,0
+ Real Sociedad,Athletic Club,1,1,Anabelle Doyle,0
+ Sevilla,Osasuna,2,0,Alfonzo Walker III,Dane Crona,0,1
+ Valencia,Villarreal,2,0,April Ratke,Abdullah Franecki,1,0
+ Rayo Vallecano,Celta Vigo,0,0
+ Elche,Real Madrid,1,2,Stevie Stark,Chloe Stiedemann,Jarred Nader,1,0,0
+ Alaves,Levante,2,1,Jayne Hessel,0
+ Athletic Club,Cadiz,0,1,Mrs. Elwin Weber,0
+ Real Betis,Sevilla,0,2,Ramon Boyle,Yvonne Gaylord IV,1,0
+ Celta Vigo,Barcelona,3,3
+ Mallorca,Elche,2,2
+ Espanyol,Granada CF,2,0,Cecil Abshire IV,Braxton Quigley,1,1
+ Osasuna,Real Sociedad,0,2,Jayde Hane,0
+ Real Madrid,Rayo Vallecano,2,1,Jace Crooks,Jarred Nader,Ebba Runte,0,1,0
+ Valencia,Atletico Madrid,3,3,Fern Labadie,Jarred Nader,Kiel Farrell,Erling Emard,Ana O'Conner,Jace Crooks,2,4,3,4,3,5
+ Villarreal,Getafe,1,0,Cyril Morar,0
+ Atletico Madrid,Osasuna,1,0
+ Barcelona,Espanyol,1,0
+ Celta Vigo,Villarreal,1,1,Rhett Klocko,Autumn Grady,1,1
+ Getafe,Cadiz,4,0
+ Granada CF,Real Madrid,1,4,Jayne Hessel,Erling Emard,1,0
+ Levante,Athletic Club,0,0
+ Real Sociedad,Valencia,0,0
+ Sevilla,Alaves,2,2,Cecil Abshire IV,April Ratke,Rhett Klocko,Autumn Grady,0,0,2,1
+ Rayo Vallecano,Mallorca,3,1,Mrs. Elwin Weber,0
+ Elche,Real Betis,0,3,Alfonzo Walker III,0
+ Alaves,Celta Vigo,1,2,Jayde Hane,Autumn Grady,1,0
+ Athletic Club,Granada CF,2,2,Abdullah Franecki,Yvonne Gaylord IV,Julius Donnelly,0,2,1
+ Real Betis,Levante,3,1,Fern Labadie,Jayde Hane,Abdullah Franecki,Assunta Hermann,0,0,3,2
+ Mallorca,Getafe,0,0
+ Cadiz,Atletico Madrid,1,4,Carey Effertz,0
+ Espanyol,Real Sociedad,1,0
+ Osasuna,Elche,1,1
+ Real Madrid,Sevilla,2,1,Abdullah Franecki,Alfonzo Walker III,0,0
+ Valencia,Rayo Vallecano,1,1
+ Villarreal,Barcelona,1,3
+ Atletico Madrid,Mallorca,1,2,Garett DuBuque,0
+ Barcelona,Real Betis,0,1
+ Celta Vigo,Valencia,1,2,Cyril Morar,Jasen Morar,0,1
+ Getafe,Athletic Club,0,0
+ Granada CF,Alaves,2,1
+ Levante,Osasuna,0,0
+ Real Sociedad,Real Madrid,0,2
+ Sevilla,Villarreal,1,0,Arlo Blick,0
+ Rayo Vallecano,Espanyol,1,0,Ramon Boyle,0
+ Elche,Cadiz,3,1,Abdullah Franecki,Abby Braun,0,1
+ Alaves,Getafe,1,1,Millie Gaylord,April Ratke,0,1
+ Athletic Club,Sevilla,0,1,Alfonzo Walker III,0
+ Real Betis,Real Sociedad,4,0,Rubye Baumbach,Abdullah Franecki,1,1
+ Mallorca,Celta Vigo,0,0
+ Cadiz,Granada CF,1,1
+ Espanyol,Levante,4,3,Jace Crooks,Ramon Boyle,0,0
+ Osasuna,Barcelona,2,2
+ Real Madrid,Atletico Madrid,2,0,Giovani Williamson,Laverna Lemke,0,0
+ Valencia,Elche,2,1,Elyssa Hane,Ramon Boyle,Jayde Hane,0,0,2
+ Villarreal,Rayo Vallecano,2,0
+ Athletic Club,Real Betis,3,2,Jasen Morar,Abby Braun,April Ratke,Opal Romaguera II,Assunta Hermann,1,0,2,3,4
+ Barcelona,Elche,3,2,Layne Gislason,April Ratke,Jasen Morar,Frank Dach,1,0,2,1
+ Celta Vigo,Espanyol,3,1,Anabelle Doyle,0
+ Getafe,Osasuna,1,0
+ Granada CF,Mallorca,4,1,Ana O'Conner,Layne Gislason,1,1
+ Levante,Valencia,3,4,Alvina Schimmel,Assunta Hermann,Cecil Abshire IV,Fern Labadie,Chloe Stiedemann,Rhett Klocko,0,1,0,3,4,0
+ Real Madrid,Cadiz,0,0
+ Real Sociedad,Villarreal,1,3,Kiel Farrell,Odie Monahan,Stevie Stark,1,0,1
+ Sevilla,Atletico Madrid,2,1,Giovani Williamson,0
+ Rayo Vallecano,Alaves,2,0
+ Alaves,Real Sociedad,1,1
+ Atletico Madrid,Rayo Vallecano,2,0,Elyssa Hane,Fern Labadie,0,0
+ Real Betis,Celta Vigo,0,2
+ Mallorca,Barcelona,0,1,Jasen Morar,0
+ Getafe,Real Madrid,1,0,April Ratke,0
+ Cadiz,Sevilla,0,1
+ Osasuna,Athletic Club,1,3
+ Valencia,Espanyol,1,2
+ Villarreal,Levante,5,0,Bud West,Odie Monahan,Kiel Farrell,0,1,0
+ Elche,Granada CF,0,0
+ Alaves,Athletic Club,0,0
+ Granada CF,Barcelona,1,1,Kellie Carter,0
+ Espanyol,Elche,1,2,Assunta Hermann,Mrs. Elwin Weber,Anabelle Doyle,2,1,1
+ Levante,Mallorca,2,0,Braxton Quigley,0
+ Osasuna,Cadiz,2,0,Dane Crona,Jarred Nader,0,0
+ Real Madrid,Valencia,4,1,Jace Crooks,Jayne Goyette,Jasen Morar,Layne Gislason,0,0,2,1
+ Real Sociedad,Celta Vigo,1,0,Jayde Hane,0
+ Sevilla,Getafe,1,0
+ Rayo Vallecano,Real Betis,1,1,Wilhelm Kozey MD,0
+ Villarreal,Atletico Madrid,2,2,Kellie Carter,Elyssa Hane,1,1
+ Athletic Club,Real Madrid,1,2,Elvie Simonis,Kiel Farrell,0,0
+ Atletico Madrid,Levante,0,1,Elyssa Hane,0
+ Barcelona,Rayo Vallecano,0,1,Julius Donnelly,0
+ Real Betis,Alaves,4,0,Jace Crooks,Miles Kshlerin,Bud West,2,1,0
+ Celta Vigo,Osasuna,2,0,Carey Effertz,Abdullah Franecki,1,1
+ Mallorca,Real Sociedad,0,2,Laverna Lemke,0
+ Getafe,Granada CF,4,2,Jace Crooks,0
+ Cadiz,Espanyol,2,2,Giovani Williamson,Dane Crona,0,1
+ Valencia,Sevilla,1,1
+ Elche,Villarreal,1,0
+ Alaves,Barcelona,0,1,Odie Monahan,0
+ Atletico Madrid,Valencia,3,2,Abdullah Franecki,Carey Effertz,Chloe Stiedemann,April Ratke,Erling Emard,0,4,0,3,2
+ Granada CF,Osasuna,0,2,Fern Labadie,Jasen Morar,1,0
+ Espanyol,Real Betis,1,4,Abby Braun,Elvie Simonis,Cyril Morar,Arlo Blick,0,3,2,0
+ Levante,Cadiz,0,2,Bud West,0
+ Real Madrid,Elche,2,2,Assunta Hermann,0
+ Real Sociedad,Getafe,0,0
+ Sevilla,Celta Vigo,2,2,Cecil Abshire IV,Arlo Blick,0,0
+ Rayo Vallecano,Athletic Club,0,1
+ Villarreal,Mallorca,3,0,Julius Donnelly,0
+ Athletic Club,Espanyol,2,1,Julius Donnelly,0
+ Barcelona,Atletico Madrid,4,2,Fern Labadie,Bud West,Cyril Morar,Assunta Hermann,Anabelle Doyle,Cecil Abshire IV,3,4,2,3,1,0
+ Real Betis,Villarreal,0,2,Abby Braun,0
+ Celta Vigo,Rayo Vallecano,2,0
+ Mallorca,Cadiz,2,1,Jayne Goyette,Assunta Hermann,1,0
+ Getafe,Levante,3,0,Ardella Will,Fern Labadie,Giovani Williamson,2,0,0
+ Osasuna,Sevilla,0,0
+ Real Madrid,Granada CF,1,0,Cyril Morar,0
+ Valencia,Real Sociedad,0,0
+ Elche,Alaves,3,1,Chloe Stiedemann,Jasen Morar,Dane Crona,Abdullah Franecki,0,2,3,1
+ Alaves,Valencia,2,1
+ Atletico Madrid,Getafe,4,3,Cecil Abshire IV,Yvonne Gaylord IV,0,0
+ Mallorca,Athletic Club,3,2,Jayde Hane,0
+ Cadiz,Celta Vigo,0,0
+ Espanyol,Barcelona,2,2,Erling Emard,Jasen Morar,1,1
+ Levante,Real Betis,2,4,Miles Kshlerin,0
+ Real Sociedad,Granada CF,2,0,Jace Crooks,0
+ Sevilla,Elche,2,0,Alfonzo Walker III,Arlo Blick,1,0
+ Rayo Vallecano,Osasuna,0,3,Opal Romaguera II,Anabelle Doyle,0,1
+ Villarreal,Real Madrid,0,0
+ Athletic Club,Real Sociedad,4,0,Rubye Baumbach,0
+ Real Betis,Mallorca,2,1,Assunta Hermann,Jasen Morar,Carey Effertz,2,1,2
+ Celta Vigo,Levante,1,1,Ardella Will,0
+ Cadiz,Getafe,1,1,Layne Gislason,0
+ Granada CF,Villarreal,1,4,Braxton Quigley,April Ratke,0,0
+ Espanyol,Sevilla,1,1,Fern Labadie,0
+ Osasuna,Atletico Madrid,0,3,Dane Crona,Cyril Morar,1,0
+ Real Madrid,Alaves,3,0,Jace Crooks,0
+ Valencia,Barcelona,1,4
+ Elche,Rayo Vallecano,2,1,Alfonzo Walker III,0
+ Atletico Madrid,Celta Vigo,2,0,Laverna Lemke,Millie Gaylord,0,1
+ Barcelona,Athletic Club,4,0,Wilhelm Kozey MD,Jarred Nader,Giovani Williamson,Odie Monahan,0,3,1,2
+ Mallorca,Valencia,0,1
+ Getafe,Alaves,2,2,Giovani Williamson,0
+ Granada CF,Cadiz,0,0
+ Levante,Elche,3,0,Braxton Quigley,Jayde Hane,0,0
+ Real Sociedad,Osasuna,1,0
+ Sevilla,Real Betis,2,1
+ Rayo Vallecano,Real Madrid,0,1,Jayde Hane,0
+ Villarreal,Espanyol,5,1,Abby Braun,Fern Labadie,Ebba Runte,Giovani Williamson,1,1,1,1
+ Alaves,Sevilla,0,0
+ Athletic Club,Levante,3,1
+ Real Betis,Atletico Madrid,1,3,Arlo Blick,Miles Kshlerin,Alvina Schimmel,1,1,1
+ Celta Vigo,Mallorca,4,3,Layne Gislason,Opal Romaguera II,Abby Braun,Fern Labadie,Millie Gaylord,Cecil Abshire IV,Kiel Farrell,2,2,2,4,4,1,3
+ Cadiz,Rayo Vallecano,2,0,Jayde Hane,Cecil Abshire IV,0,1
+ Espanyol,Getafe,2,0
+ Osasuna,Villarreal,1,0,Carey Effertz,0
+ Real Madrid,Real Sociedad,4,1,Miles Kshlerin,0
+ Valencia,Granada CF,3,1,Hilda Wehner,Jayne Goyette,April Ratke,0,2,0
+ Elche,Barcelona,1,2,Dedrick Bayer,Rhett Klocko,0,0
+ Atletico Madrid,Cadiz,2,1,Fern Labadie,0
+ Barcelona,Osasuna,4,0,Miles Kshlerin,Jayne Goyette,1,1
+ Real Betis,Athletic Club,1,0
+ Mallorca,Real Madrid,0,3,Ebba Runte,Elvie Simonis,1,1
+ Getafe,Valencia,0,0
+ Granada CF,Elche,0,1
+ Levante,Espanyol,1,1,Cyril Morar,0
+ Real Sociedad,Alaves,1,0
+ Rayo Vallecano,Sevilla,1,1,Cyril Morar,Laverna Lemke,1,0
+ Villarreal,Celta Vigo,1,0
+ Alaves,Granada CF,2,3,Braxton Quigley,Opal Romaguera II,Jace Crooks,1,2,2
+ Athletic Club,Getafe,1,1,Anabelle Doyle,0
+ Celta Vigo,Real Betis,0,0
+ Cadiz,Villarreal,1,0,Ardella Will,0
+ Espanyol,Mallorca,1,0,Alvina Schimmel,0
+ Osasuna,Levante,3,1,Elyssa Hane,Carey Effertz,Abby Braun,Bud West,3,3,0,1
+ Real Madrid,Barcelona,0,4,Alvina Schimmel,0
+ Sevilla,Real Sociedad,0,0
+ Rayo Vallecano,Atletico Madrid,0,1
+ Elche,Valencia,0,1,Ebba Runte,0
+ Athletic Club,Elche,2,1
+ Atletico Madrid,Alaves,4,1,Ebba Runte,0
+ Barcelona,Sevilla,1,0,Miles Kshlerin,0
+ Real Betis,Osasuna,4,1,Cecil Abshire IV,Kellie Carter,1,1
+ Celta Vigo,Real Madrid,1,2
+ Getafe,Mallorca,1,0,April Ratke,0
+ Granada CF,Rayo Vallecano,2,2,Rhett Klocko,Cyril Morar,Opal Romaguera II,Julius Donnelly,3,3,2,0
+ Levante,Villarreal,2,0
+ Real Sociedad,Espanyol,1,0,Millie Gaylord,0
+ Valencia,Cadiz,0,0
+ Mallorca,Atletico Madrid,1,0,Dedrick Bayer,0
+ Cadiz,Real Betis,1,2,Dedrick Bayer,0
+ Espanyol,Celta Vigo,1,0
+ Levante,Barcelona,2,3,Giovani Williamson,Ebba Runte,0,0
+ Osasuna,Alaves,1,0,Jayne Hessel,0
+ Real Madrid,Getafe,2,0,Jarred Nader,0
+ Sevilla,Granada CF,4,2,Hilda Wehner,0
+ Rayo Vallecano,Valencia,1,1,Opal Romaguera II,Arlo Blick,1,0
+ Villarreal,Athletic Club,1,1
+ Elche,Real Sociedad,1,2,Giovani Williamson,Millie Gaylord,Yvonne Gaylord IV,0,1,0
+ Alaves,Rayo Vallecano,1,0
+ Athletic Club,Celta Vigo,0,2,Rhett Klocko,Anabelle Doyle,0,0
+ Atletico Madrid,Espanyol,2,1,Ebba Runte,Garett DuBuque,Alfonzo Walker III,2,1,1
+ Barcelona,Cadiz,0,1
+ Getafe,Villarreal,1,2,Ramon Boyle,0
+ Granada CF,Levante,1,4,Alfonzo Walker III,April Ratke,Ebba Runte,2,1,1
+ Real Sociedad,Real Betis,0,0
+ Sevilla,Real Madrid,2,3,Yvonne Gaylord IV,Kiel Farrell,Jasen Morar,1,0,0
+ Valencia,Osasuna,1,2
+ Elche,Mallorca,3,0,Dane Crona,0
+ Atletico Madrid,Granada CF,0,0
+ Real Betis,Elche,0,1,Frank Dach,0
+ Celta Vigo,Getafe,0,2
+ Mallorca,Alaves,2,1,Bud West,0
+ Cadiz,Athletic Club,2,3,Garett DuBuque,Jasen Morar,Mrs. Elwin Weber,Jayde Hane,0,2,2,2
+ Espanyol,Rayo Vallecano,0,1
+ Levante,Sevilla,2,3,Jace Crooks,Abby Braun,Anabelle Doyle,Bud West,1,2,0,3
+ Osasuna,Real Madrid,1,3,Jayne Goyette,Dedrick Bayer,Julius Donnelly,Rhett Klocko,1,2,2,0
+ Real Sociedad,Barcelona,0,1
+ Villarreal,Valencia,2,0,Elyssa Hane,Layne Gislason,0,0
+ Alaves,Villarreal,2,1
+ Athletic Club,Atletico Madrid,2,0
+ Barcelona,Mallorca,2,1,Carey Effertz,Odie Monahan,Jarred Nader,2,2,0
+ Getafe,Real Betis,0,0
+ Granada CF,Celta Vigo,1,1
+ Real Madrid,Espanyol,4,0,Carey Effertz,Bud West,0,1
+ Sevilla,Cadiz,1,1,Wilhelm Kozey MD,0
+ Valencia,Levante,1,1,Anabelle Doyle,0
+ Rayo Vallecano,Real Sociedad,1,1,Autumn Grady,0
+ Elche,Osasuna,1,1,Giovani Williamson,Miles Kshlerin,0,0
+ Athletic Club,Valencia,0,0
+ Atletico Madrid,Real Madrid,1,0,Elvie Simonis,0
+ Real Betis,Barcelona,1,2,Wilhelm Kozey MD,Ramon Boyle,0,1
+ Celta Vigo,Alaves,4,0,Jayne Goyette,Kiel Farrell,Jayne Hessel,0,0,2
+ Mallorca,Granada CF,2,6,Jarred Nader,Ana O'Conner,1,0
+ Getafe,Rayo Vallecano,0,0
+ Cadiz,Elche,3,0,Layne Gislason,0
+ Espanyol,Osasuna,1,1
+ Levante,Real Sociedad,2,1,Rubye Baumbach,0
+ Villarreal,Sevilla,1,1,Braxton Quigley,0
+ Alaves,Espanyol,2,1,Jarred Nader,Elyssa Hane,0,1
+ Barcelona,Celta Vigo,3,1
+ Granada CF,Athletic Club,1,0
+ Osasuna,Getafe,1,1
+ Real Madrid,Levante,6,0,Ardella Will,Jayde Hane,Jayne Hessel,Miles Kshlerin,Dane Crona,Giovani Williamson,2,2,4,2,2,5
+ Real Sociedad,Cadiz,3,0,Hilda Wehner,Abdullah Franecki,Erling Emard,1,1,2
+ Sevilla,Mallorca,0,0
+ Valencia,Real Betis,0,3
+ Rayo Vallecano,Villarreal,1,5,Jasen Morar,Dedrick Bayer,Jayde Hane,Jayne Goyette,Odie Monahan,4,3,4,2,2
+ Elche,Atletico Madrid,0,2,Yvonne Gaylord IV,0
+ Athletic Club,Osasuna,2,0,Giovani Williamson,0
+ Atletico Madrid,Sevilla,1,1,Garett DuBuque,Rhett Klocko,0,1
+ Real Betis,Granada CF,2,0,Rubye Baumbach,Kellie Carter,1,1
+ Celta Vigo,Elche,1,0,Frank Dach,0
+ Mallorca,Rayo Vallecano,2,1,Frank Dach,Cyril Morar,1,0
+ Getafe,Barcelona,0,0
+ Cadiz,Real Madrid,1,1,Ardella Will,0
+ Espanyol,Valencia,1,1
+ Levante,Alaves,3,1,Erling Emard,0
+ Villarreal,Real Sociedad,1,2,Fern Labadie,Frank Dach,Cyril Morar,1,0,1
+ Alaves,Cadiz,0,1
+ Barcelona,Villarreal,0,2
+ Granada CF,Espanyol,0,0
+ Osasuna,Mallorca,0,2
+ Real Madrid,Real Betis,0,0
+ Real Sociedad,Atletico Madrid,1,2,Ebba Runte,Giovani Williamson,Ramon Boyle,2,2,1
+ Sevilla,Athletic Club,1,0,Anabelle Doyle,0
+ Valencia,Celta Vigo,2,0,Ana O'Conner,Odie Monahan,0,0
+ Rayo Vallecano,Levante,2,4,Fern Labadie,Laverna Lemke,Garett DuBuque,Millie Gaylord,Jarred Nader,Opal Romaguera II,2,4,1,5,0,5
+ Elche,Getafe,3,1,April Ratke,Odie Monahan,Layne Gislason,Fern Labadie,0,3,1,0
