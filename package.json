@@ -41,6 +41,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.3",
     "dotenv": "^16.0.1",
+    "jfile": "^1.1.12",
     "request": "^2.88.2"
   }
 }
