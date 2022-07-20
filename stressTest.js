@@ -57,18 +57,53 @@ function convertToJson() {
   });
 }
 
+function getTime() {
+  let today = new Date();
+  let time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+  console.log(time);
+
+}
+
 async function main() {
   let matchdata = fs.readFileSync('data.json');
   let allData = JSON.parse(matchdata);
-  console.log("Number of matches", allData.length);
-    // console.log("Adding a new team:");
-    // const tx = await oracleContract.addMatch("La Liga-2020", "ab", "cd'", 2, 1, ["test name", "other name"], [2,1]);
-    // await tx.wait();
-
-    // matchDetails = await oracleContract.getMatch("La Liga-2020");
-    // console.log(matchDetails);
-  
+  let totalMatches = allData.length;
+  console.log("Number of matches", totalMatches);
+  let totalGasUsed = 0;
+  getTime()
+  for (let index = 0; index < totalMatches; index++) {
+    try {
+      const match = allData[index];
+      console.log("Adding a new team:");
+      const tx = await oracleContract.addMatch("La Liga-2016", match.home, match.away, match.homeGoals, match.awayGoals, match.scorers, match.scores);
+      let reciept = await tx.wait();
+      console.log(reciept.gasUsed);
+      totalGasUsed += reciept.gasUsed.toNumber();
+      console.log("Added " + (index+1) + " matches");
+    } catch (error) {
+      console.log("Error occured at", index, error);
+    }
   }
+  getTime()
+
+  console.log("Total gas used", totalGasUsed);
+    // console.log("Adding a new team:");
+    // const tx = await oracleContract.addMatch("La Liga-2021", "ab", "cd'", 2, 1, ["test name", "other name"], [2,1]);
+    // await tx.wait();
+  let matchDetails = await oracleContract.getMatch("La Liga-2021");
+  console.log("Total matches in a Liga-2021 added on the contract: ", matchDetails.length);
+  matchDetails = await oracleContract.getMatch("La Liga-2020");
+  console.log("Total matches a Liga-2020 added on the contract: ", matchDetails.length);
+  matchDetails = await oracleContract.getMatch("La Liga-2019");
+  console.log("Total matches a Liga-2019 added on the contract: ", matchDetails.length);
+  matchDetails = await oracleContract.getMatch("La Liga-2018");
+  console.log("Total matches a Liga-2018 added on the contract: ", matchDetails.length);
+  matchDetails = await oracleContract.getMatch("La Liga-2017");
+  console.log("Total matches a Liga-2017 added on the contract: ", matchDetails.length);
+  matchDetails = await oracleContract.getMatch("La Liga-2016");
+  console.log("Total matches a Liga-2016 added on the contract: ", matchDetails.length);
+}
+
   main();
   // convertToJson();
 
