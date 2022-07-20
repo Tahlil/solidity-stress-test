@@ -1,0 +1,3 @@
+Total gas used for adding match of an entire La Liga season (380 matches):  65841949
+Assuming gas price: 3e-8 ether
+Total cost: 1.97525847 ether
